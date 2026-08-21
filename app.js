@@ -1534,10 +1534,10 @@ async function printInvoiceData(data) {
             <div class="receipt-box">
                 <div class="copy-badge">${copyType} COPY</div>
                 <div class="art-header-box">
-                     <h1 class="art-company-name">A R T Leasing Limited</h1>
-                    <div class="art-address">HO:Govt.Hospital .JN, M.C Road ,Chengannur</div>
-                    <div class="art-domain">admn@artleasingltd.in | www.artleasingltd.in</div>
-                    <div class="art-cin-gst">CIN:U65910KL1990PLC005904 &nbsp;&nbsp; GST:32AACCA6821G2Z3</div>
+                    <h1 class="art-company-name">Chengannur Nidhi Limited</h1>
+                    <div class="art-address">HO: Govt.Hospital .JN, M.C Road ,Chengannur</div>
+                    <div class="art-domain">admn@chengannurnidhilimited.com | www.chengannurnidhilimited.com</div>
+                    <div class="art-cin-gst">CIN:U65990KL2016PLC045480 &nbsp;&nbsp;&nbsp; GST:32AAGCC4316G1Z4</div>
                 </div>
                 
                 <div class="art-info-grid">
